@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Placing Marbles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c256f956fffe9cb7948455c4fcc5855204c9b0ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Placing Marbles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Placing Marbles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

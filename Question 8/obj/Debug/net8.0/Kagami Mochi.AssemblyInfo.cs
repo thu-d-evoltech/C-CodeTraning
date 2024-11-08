@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kagami Mochi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c256f956fffe9cb7948455c4fcc5855204c9b0ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kagami Mochi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kagami Mochi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

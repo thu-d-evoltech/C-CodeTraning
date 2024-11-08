@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Question 8\\Kagami Mochi.csproj": {}
+    "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Question 8\\Kagami Mochi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Question 8\\Kagami Mochi.csproj": {
+    "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Question 8\\Kagami Mochi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Question 8\\Kagami Mochi.csproj",
+        "projectUniqueName": "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Question 8\\Kagami Mochi.csproj",
         "projectName": "Kagami Mochi",
-        "projectPath": "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Question 8\\Kagami Mochi.csproj",
+        "projectPath": "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Question 8\\Kagami Mochi.csproj",
         "packagesPath": "C:\\Users\\thu-d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Question 8\\obj\\",
+        "outputPath": "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Question 8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

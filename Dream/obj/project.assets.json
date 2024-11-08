@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Dream\\Dream.csproj",
+      "projectUniqueName": "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Dream\\Dream.csproj",
       "projectName": "Dream",
-      "projectPath": "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Dream\\Dream.csproj",
+      "projectPath": "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Dream\\Dream.csproj",
       "packagesPath": "C:\\Users\\thu-d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thu-d\\OneDrive\\デスクトップ\\DCR Training\\Dream\\obj\\",
+      "outputPath": "C:\\Users\\thu-d\\source\\repos\\C-CodeTraning\\Dream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

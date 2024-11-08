@@ -1,0 +1,14 @@
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\bin\Debug\net8.0\Welcome.exe
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\bin\Debug\net8.0\Welcome.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\bin\Debug\net8.0\Welcome.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Question 1\obj\Debug\net8.0\ref\Welcome.dll

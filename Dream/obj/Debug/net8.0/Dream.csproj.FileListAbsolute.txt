@@ -1,0 +1,14 @@
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\bin\Debug\net8.0\Dream.exe
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\bin\Debug\net8.0\Dream.deps.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\bin\Debug\net8.0\Dream.runtimeconfig.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\bin\Debug\net8.0\Dream.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\bin\Debug\net8.0\Dream.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.AssemblyInfoInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.AssemblyInfo.cs
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.csproj.CoreCompileInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\refint\Dream.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\Dream.genruntimeconfig.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Dream\obj\Debug\net8.0\ref\Dream.dll

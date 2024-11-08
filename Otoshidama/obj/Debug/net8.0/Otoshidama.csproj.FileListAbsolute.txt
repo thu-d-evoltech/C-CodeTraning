@@ -1,0 +1,14 @@
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\bin\Debug\net8.0\Otoshidama.exe
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\bin\Debug\net8.0\Otoshidama.deps.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\bin\Debug\net8.0\Otoshidama.runtimeconfig.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\bin\Debug\net8.0\Otoshidama.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\bin\Debug\net8.0\Otoshidama.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.AssemblyInfoInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.AssemblyInfo.cs
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.csproj.CoreCompileInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\refint\Otoshidama.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\Otoshidama.genruntimeconfig.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Otoshidama\obj\Debug\net8.0\ref\Otoshidama.dll

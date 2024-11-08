@@ -1,0 +1,14 @@
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\bin\Debug\net8.0\Traveling.exe
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\bin\Debug\net8.0\Traveling.deps.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\bin\Debug\net8.0\Traveling.runtimeconfig.json
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\bin\Debug\net8.0\Traveling.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\bin\Debug\net8.0\Traveling.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.AssemblyInfoInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.AssemblyInfo.cs
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.csproj.CoreCompileInputs.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\refint\Traveling.dll
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.pdb
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\Traveling.genruntimeconfig.cache
+C:\Users\thu-d\OneDrive\デスクトップ\DCR Training\Traveling\obj\Debug\net8.0\ref\Traveling.dll
